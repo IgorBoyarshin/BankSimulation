@@ -1,0 +1,17 @@
+[Log started at 19 47 54 447]
+{0} [Bank] Starting the system
+{8} [Bank] Started at: 19_47_54_455
+{9} [Bank] Starting the main loop
+{1176} [Bank] Received requestsEnded. Unprocessed left: 52439.   Performed already: 9803
+{2184} [Bank] Terminated at: 19_47_56_631
+
+{2185} [Bank] Analytics:
+{2185} [Bank] Performed operations: 62241
+{2185} [Bank] Create operations: 349
+{2185} [Bank] Credit operations: 30953
+{2185} [Bank] Deposit operations: 30939
+{2185} [Bank] Unprocessed: 0
+{2185} [Bank] Something went wrong: 0
+
+{2185} [Bank] Terminating
+[Log ended at 19:47:56:633]

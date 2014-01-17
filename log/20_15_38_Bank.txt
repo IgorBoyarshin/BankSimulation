@@ -1,0 +1,17 @@
+[Log started at 20 15 38 878]
+{0} [Bank] Starting the system
+{43} [Bank] Started at: 20_15_38_921
+{43} [Bank] Starting the main loop
+{4065} [Bank] Received requestsEnded. Unprocessed left: 139190.   Performed already: 73280
+{7171} [Bank] Terminated at: 20_15_46_048
+
+{7171} [Bank] Analytics:
+{7171} [Bank] Performed operations: 212470
+{7171} [Bank] Create operations: 652
+{7171} [Bank] Credit operations: 105692
+{7171} [Bank] Deposit operations: 106126
+{7171} [Bank] Unprocessed: 0
+{7171} [Bank] Something went wrong: 0
+
+{7171} [Bank] Terminating
+[Log ended at 20:15:46:049]

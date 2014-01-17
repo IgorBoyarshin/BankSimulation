@@ -1,0 +1,16 @@
+[Log started at 19 47 54 432]
+{21} Running time: 800
+{21} Description: Testing overprocessing by Bank. Works until requests == 0. Addition to Bank log in moment of receiving
+
+{2200} Analytics:
+{2200}           Bank        UserHandler
+{2200} Processed:    62241        62241   Diff: 0
+{2200} Created:      349        349
+{2200} Credit:       30953        30953
+{2200} Deposit:      30939        30939
+{2200} Unprocessed:  0
+
+{2200} Unprocessed matches
+
+{2200} Deposit(UH) is smaller by: 14
+[Log ended at 19:47:56:635]

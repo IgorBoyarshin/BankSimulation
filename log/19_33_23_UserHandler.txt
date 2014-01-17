@@ -1,0 +1,14 @@
+[Log started at 19 33 23 832]
+{2} [UserHandler] Starting the system
+{101} [UserHandler] Started at: 19_33_23_932
+{101} [UserHandler] Starting the main loop
+{423} [UserHandler] Terminated at: 19_33_24_255
+
+{446} [UserHandler] Analytics:
+{446} [UserHandler] Performed operations: 29787
+{447} [UserHandler] Create operations: 255
+{447} [UserHandler] Credit operations: 14675
+{447} [UserHandler] Deposit operations: 14857
+
+{447} [UserHandler] Terminating
+[Log ended at 19:33:24:280]
